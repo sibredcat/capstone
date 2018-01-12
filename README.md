@@ -29,6 +29,8 @@ The deliverables are:
 
 - Project report 
 
-- Folder containing submission files 
+- Folder containing submission files
+
+- kaggle_scores.csv - contains scores from private leaderboard on Kaggle
 
 The datasets required for the project can be downloaded at: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
